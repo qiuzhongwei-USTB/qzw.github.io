@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-# About
+# About Me
 Zhongwei Qiu currently is pursuing his Ph.D. degree at University of Science and Technology Beijing (USTB), supervised by Prof. Dongmei Fu, co-supervised by Dr. [Jianlong Fu](https://jianlong-fu.github.io/) from Microsoft Research Asia (MSRA). Before that, he received his B.S. degree in automation from USTB in 2018. He is a visiting researcher at the University of Sydney (USYD) since July 2022, supervised with Dr. [Chang Xu](http://changxu.xyz/).
 
 His research interest includes 2D/3D human pose estimation and 3D human reconstruction, video super-resolution, NeRF, and diffusion model.
