@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # About Me
-Zhongwei Qiu currently is pursuing his Ph.D. degree at University of Science and Technology Beijing (USTB), supervised by Prof. Dongmei Fu, co-supervised by Dr. [Jianlong Fu](https://jianlong-fu.github.io/) from Microsoft Research Asia (MSRA). Before that, he received his B.S. degree in Automation from USTB in 2018. He is a visiting researcher at the University of Sydney (USYD) since July 2022, supervised  Dr. [Chang Xu](http://changxu.xyz/).
+Zhongwei Qiu currently is pursuing his Ph.D. degree at University of Science and Technology Beijing (USTB), supervised by Prof. Dongmei Fu, co-supervised by Dr. [Jianlong Fu](https://jianlong-fu.github.io/) from Microsoft Research Asia (MSRA). Before that, he received his B.S. degree in Automation from USTB in 2018. He is a visiting researcher at the University of Sydney (USYD) since July 2022, supervised by Dr. [Chang Xu](http://changxu.xyz/).
 
 His research interest includes 2D/3D human pose estimation and 3D human reconstruction, video super-resolution, NeRF, and diffusion model.
 
@@ -101,7 +101,7 @@ His research interest includes 2D/3D human pose estimation and 3D human reconstr
 - *2022.12* Scholarship from Zenith Steel Group
 - *2022.12* Star of Academic, University of Science and Technology Beijing
 - *2022.12* Excellent Graduate Student, University of Science and Technology Beijing
-- *2022.10* ECCV Student Scholarship, ECCV
+- *2022.10* ECCV 2022 Student Scholarship, ECCV
 - *2022.10* ACM Multimedia 2023 Student Scholarship, ACM Multimedia
 - *2021.12* Star of Tomorrow, Microsoft Research Asia
 - *2021.02* Star of Tomorrow, Microsoft Research Asia
