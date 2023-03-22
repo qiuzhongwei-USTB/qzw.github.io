@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zhongwei Qiu"
-description              : "Ph.D Candidate at USTB"
+description              : "Ph.D Candidate at USTB \\ Computer Vision"
 repository               : "qiuzhongwei-USTB/qzw.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Zhongwei Qiu"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "USTB <br> USYD"
+  bio              : "USTB & USYD"
   location         : "Sydney, Australia"
   employer         :
   pubmed           : 
