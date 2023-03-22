@@ -78,21 +78,23 @@ His research interest includes 2D/3D human pose estimation and 3D human reconstr
   
   **Zhongwei Qiu**, Kai Qiu, Jianlong Fu, Dongmei Fu
   
-  *AAAI 2020*
+  *AAAI 2020* [pdf](https://ojs.aaai.org/index.php/AAAI/article/view/6867)
   
 - **Learning recurrent structure-guided attention network for multi-person pose estimation**
   
   **Zhongwei Qiu**, Kai Qiu, Jianlong Fu, Dongmei Fu
   
-  *ICME 2019* oral
+  *ICME 2019* oral [pdf](https://ieeexplore.ieee.org/abstract/document/8785048)
   
-# Work Experience
-
+# 👨‍💼 Work Experience
+- *2021 - 2023*, Research Intern, Baidu Vis, Beijing, China.
+- *2018.07 - 2021.02*, Research Intern, Microsoft Research Asia, Beijing, China.
+- 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 📖 Educations
+# 🎓︎ Educations
 - *2022.07 - present*, Visiting Research Student, the University of Sydney (USYD), Sydney, Australia.
 - *2018.06 - present*, Ph.D student in Control Science and Engineering, University of Science and Technology Beijing (USTB), Beijing China. 
 - *2014.09 - 2018.06*, Bachelor of Engineering in Automation, University of Science and Technology Beijing (USTB), Beijing China. 
@@ -101,13 +103,15 @@ His research interest includes 2D/3D human pose estimation and 3D human reconstr
 - *2022.10*, "IVT: An End-to-End Instance-guided Video Transformer for 3D Pose Estimation" at ACM Multimedia 2022 (online), Lisbon, Portugal. 
 - *2019.07*, "Learning recurrent structure-guided attention network for multi-person pose estimation" at ICME 2019, Shanghai, China.
 
-# 💻 Internships
-- *2018.07 - 2021.02*, Research Intern, Microsoft Research Asia, Beijing, China.
-
-# Academic Service
+# 📖 Academic Service
 ## Conference Reviewer
-- **CVPR Reviewer**: 2023
-- **ICML Reviewer**: 2023
+- **CVPR**: 2023
+- **ICML**: 2023
+- **NeurIPS**: 2022
+- **ACM MM**: 2022,2021
+- **AAAI**: 2023
+- **ICASSP**: 2023
+- **ICME**: 2023,2022,2021,2020,2019
+
 ## Joural Reviewer
-- **TMM Reviewer**
-- **TCSVT Reviewer**
+TMM, TCSVT
