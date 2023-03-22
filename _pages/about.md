@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # About
-Zhongwei Qiu currently is pursuing his Ph.D. degree at University of Science and Technology Beijing (USTB), supervised by Prof. Dongmei Fu, co-supervised by Dr. [Jianlong Fu](https://jianlong-fu.github.io/) from Microsoft Research Asia (MSRA). Before that, he received his B.S. degree in automation from USTB in 2018. He is a visiting researcher at the University of Sydney (USYD) since July 2022, supervised with [Chang Xu](http://changxu.xyz/).
+Zhongwei Qiu currently is pursuing his Ph.D. degree at University of Science and Technology Beijing (USTB), supervised by Prof. Dongmei Fu, co-supervised by Dr. [Jianlong Fu](https://jianlong-fu.github.io/) from Microsoft Research Asia (MSRA). Before that, he received his B.S. degree in automation from USTB in 2018. He is a visiting researcher at the University of Sydney (USYD) since July 2022, supervised with Dr. [Chang Xu](http://changxu.xyz/).
 
 His research interest includes 2D/3D human pose estimation and 3D human reconstruction, video super-resolution, NeRF, and diffusion model.
 
@@ -81,17 +81,15 @@ His research interest includes 2D/3D human pose estimation and 3D human reconstr
   **Zhongwei Qiu**, Kai Qiu, Jianlong Fu, Dongmei Fu
   
   *ICME 2019* oral
-  
-
-
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.07 - present*, Visiting Research Student, the University of Sydney (USYD), Sydney, Australia.
+- *2018.06 - present*, Ph.D student in Control Science and Engineering, University of Science and Technology Beijing (USTB), Beijing China. 
+- *2014.09 - 2018.06*, Bachelor of Engineering in Automation, University of Science and Technology Beijing (USTB), Beijing China. 
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
