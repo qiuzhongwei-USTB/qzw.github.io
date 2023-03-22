@@ -24,8 +24,12 @@ His research interest includes 2D/3D human pose estimation and 3D human reconstr
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.03*: &nbsp;🎉🎉 1 paper is accepted by CVPR2023. 
+- *2023.03*: &nbsp;🎉🎉 1 paper is accepted by Pattern Recognition. 
+- *2022.12*: I will serve as the reviewer of ICML 2023.
+- *2022.11*: &nbsp;🎉🎉 1 paper is accepted by AAAI2023. 
+- *2022.10*: I will serve as the reviewer of CVPR 2023.
+
 
 # 📝 Publications 
 - **PSVT: End-to-End Multi-person 3D Pose and Shape Estimation with Progressive Video Transformers**
@@ -81,6 +85,8 @@ His research interest includes 2D/3D human pose estimation and 3D human reconstr
   **Zhongwei Qiu**, Kai Qiu, Jianlong Fu, Dongmei Fu
   
   *ICME 2019* oral
+  
+# Work Experience
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -92,8 +98,16 @@ His research interest includes 2D/3D human pose estimation and 3D human reconstr
 - *2014.09 - 2018.06*, Bachelor of Engineering in Automation, University of Science and Technology Beijing (USTB), Beijing China. 
 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2022.10*, "IVT: An End-to-End Instance-guided Video Transformer for 3D Pose Estimation" at ACM Multimedia 2022 (online), Lisbon, Portugal. 
+- *2019.07*, "Learning recurrent structure-guided attention network for multi-person pose estimation" at ICME 2019, Shanghai, China.
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2018.07 - 2021.02*, Research Intern, Microsoft Research Asia, Beijing, China.
+
+# Academic Service
+## Conference Reviewer
+- **CVPR Reviewer**: 2023
+- **ICML Reviewer**: 2023
+## Joural Reviewer
+- **TMM Reviewer**
+- **TCSVT Reviewer**
