@@ -22,6 +22,10 @@ Zhongwei Qiu currently is pursuing his Ph.D. degree at University of Science and
 
 His research interest includes 2D/3D human pose estimation and 3D human reconstruction, video super-resolution, NeRF, and diffusion model.
 
+# 🎓︎ Educations
+- *2022.07 - present*, Visiting Research Student, The University of Sydney, Sydney, Australia.
+- *2018.06 - present*, Ph.D student in Control Science and Engineering, University of Science and Technology Beijing, Beijing China. 
+- *2014.09 - 2018.06*, Bachelor of Engineering in Automation, University of Science and Technology Beijing, Beijing China. 
 
 # 🔥 News
 - *2023.03*: &nbsp;🎉🎉 1 paper is accepted by CVPR2023. 
@@ -30,74 +34,79 @@ His research interest includes 2D/3D human pose estimation and 3D human reconstr
 - *2022.11*: &nbsp;🎉🎉 1 paper is accepted by AAAI2023. 
 - *2022.10*: I will serve as the reviewer of CVPR 2023.
 
-
 # 📝 Publications 
 - **PSVT: End-to-End Multi-person 3D Pose and Shape Estimation with Progressive Video Transformers**
   
   **Zhongwei Qiu**, Yang Qiansheng, Jian Wang, Haocheng Feng, Junyu Han, Errui Ding, Chang Xu, Dongmei Fu, Jingdong Wang
   
-  *CVPR 2023*
+  *CVPR 2023* [[paper]](https://arxiv.org/abs/2303.09187)
   
 - **Weakly-supervised Pre-training for 3D Human Pose Estimation via Perspective Knowledge**
   
   **Zhongwei Qiu**, Kai Qiu, Jianlong Fu, Dongmei Fu
   
-  *Pattern Recognition*
+  *Pattern Recognition* [[paper]](https://www.sciencedirect.com/science/article/pii/S0031320323001978)
   
 - **Learning Spatiotemporal Frequency-Transformer for Low-Quality Video Super-Resolution**
   
   **Zhongwei Qiu**, Huan Yang, Jianlong Fu, Daochang Liu, Chang Xu, Dongmei Fu
   
-  *arXiv*
+  *arXiv* [[paper]](https://arxiv.org/abs/2212.14046)
 
 - **DMIS: Dynamic Mesh-based Importance Sampling for Training Physics-Informed Neural Networks**
   
   Zijiang Yang, **Zhongwei Qiu**, Dongmei Fu
   
-  *AAAI 2023*
+  *AAAI 2023* [[paper]](https://arxiv.org/abs/2211.13944)
   
 - **Learning spatiotemporal frequency-transformer for compressed video super-resolution**
   
   **Zhongwei Qiu**, Huan Yang, Jianlong Fu, Dongmei Fu
   
-  *ECCV 2022*
+  *ECCV 2022* [[paper]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136780252.pdf)
   
 - **IVT: An End-to-End Instance-guided Video Transformer for 3D Pose Estimation**
   
   **Zhongwei Qiu**, Qiansheng Yang, Jian Wang, Dongmei Fu
   
-  *ACM MM 2022* oral
+  *ACM MM 2022* oral [[paper]](https://dl.acm.org/doi/abs/10.1145/3503161.3547871)
 
 - **Dynamic Graph Reasoning for Multi-person 3D Pose Estimation**
   
   **Zhongwei Qiu**, Qiansheng Yang, Jian Wang, Dongmei Fu
   
-  *ACM MM 2022*
+  *ACM MM 2022* [[paper]](https://dl.acm.org/doi/abs/10.1145/3503161.3547846)
   
 - **DGCN: Dynamic graph convolutional network for efficient multi-person pose estimation**
   
   **Zhongwei Qiu**, Kai Qiu, Jianlong Fu, Dongmei Fu
   
-  *AAAI 2020* [pdf](https://ojs.aaai.org/index.php/AAAI/article/view/6867)
+  *AAAI 2020* [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/6867)
   
 - **Learning recurrent structure-guided attention network for multi-person pose estimation**
   
   **Zhongwei Qiu**, Kai Qiu, Jianlong Fu, Dongmei Fu
   
-  *ICME 2019* oral [pdf](https://ieeexplore.ieee.org/abstract/document/8785048)
+  *ICME 2019* oral [[paper]](https://ieeexplore.ieee.org/abstract/document/8785048)
   
 # 👨‍💼 Work Experience
 - *2021 - 2023*, Research Intern, Baidu Vis, Beijing, China.
 - *2018.07 - 2021.02*, Research Intern, Microsoft Research Asia, Beijing, China.
-- 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 🎓︎ Educations
-- *2022.07 - present*, Visiting Research Student, the University of Sydney (USYD), Sydney, Australia.
-- *2018.06 - present*, Ph.D student in Control Science and Engineering, University of Science and Technology Beijing (USTB), Beijing China. 
-- *2014.09 - 2018.06*, Bachelor of Engineering in Automation, University of Science and Technology Beijing (USTB), Beijing China. 
+# 🛠 Projects
+- **AI Coach for freestyle skiing**, work with XiaoIce at MSRA
+- **Video Super-Resolution**, work at MSRA
+
+# 🎖 Honors and Awards
+- *2022.12* Scholarship from Zenith Steel Group
+- *2022.12* Star of Academic, University of Science and Technology Beijing
+- *2022.12* Excellent Graduate Student, University of Science and Technology Beijing
+- *2022.10* ECCV Student Scholarship, ECCV
+- *2022.10* ACM Multimedia 2023 Student Scholarship, ACM Multimedia
+- *2019.12* Silver Medal (10/1300+) in RSNA Intracranial Hemorrhage Detection, RSNA-Kaggle
+- *2018.09* The 2nd place of ChinaMM 2018 JD AI Fashion-Challenge, JD.com
+- *2018.06* Excellent Graduation Thesis, University of Science and Technology Beijing
+- *2018.06* Outstanding Graduate, University of Science and Technology Beijing
 
 # 💬 Invited Talks
 - *2022.10*, "IVT: An End-to-End Instance-guided Video Transformer for 3D Pose Estimation" at ACM Multimedia 2022 (online), Lisbon, Portugal. 
