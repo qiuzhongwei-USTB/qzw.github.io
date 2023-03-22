@@ -17,7 +17,10 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+# About
 Zhongwei Qiu currently is pursuing his Ph.D. degree at University of Science and Technology Beijing (USTB), supervised by Prof. Dongmei Fu, co-supervised by Dr. [Jianlong Fu](https://jianlong-fu.github.io/) from Microsoft Research Asia (MSRA). Before that, he received his B.S. degree in automation from USTB in 2018. He is a visiting researcher at the University of Sydney (USYD) since July 2022, supervised with [Chang Xu](http://changxu.xyz/).
+
+His research interest includes 2D/3D human pose estimation and 3D human reconstruction, video super-resolution, NeRF, and diffusion model.
 
 
 # 🔥 News
@@ -25,20 +28,62 @@ Zhongwei Qiu currently is pursuing his Ph.D. degree at University of Science and
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📝 Publications 
+- **PSVT: End-to-End Multi-person 3D Pose and Shape Estimation with Progressive Video Transformers**
+  
+  **Zhongwei Qiu**, Yang Qiansheng, Jian Wang, Haocheng Feng, Junyu Han, Errui Ding, Chang Xu, Dongmei Fu, Jingdong Wang
+  
+  *CVPR 2023*
+  
+- **Weakly-supervised Pre-training for 3D Human Pose Estimation via Perspective Knowledge**
+  
+  **Zhongwei Qiu**, Kai Qiu, Jianlong Fu, Dongmei Fu
+  
+  *Pattern Recognition*
+  
+- **Learning Spatiotemporal Frequency-Transformer for Low-Quality Video Super-Resolution**
+  
+  **Zhongwei Qiu**, Huan Yang, Jianlong Fu, Daochang Liu, Chang Xu, Dongmei Fu
+  
+  *arXiv*
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+- **DMIS: Dynamic Mesh-based Importance Sampling for Training Physics-Informed Neural Networks**
+  
+  Zijiang Yang, **Zhongwei Qiu**, Dongmei Fu
+  
+  *AAAI 2023*
+  
+- **Learning spatiotemporal frequency-transformer for compressed video super-resolution**
+  
+  **Zhongwei Qiu**, Huan Yang, Jianlong Fu, Dongmei Fu
+  
+  *ECCV 2022*
+  
+- **IVT: An End-to-End Instance-guided Video Transformer for 3D Pose Estimation**
+  
+  **Zhongwei Qiu**, Qiansheng Yang, Jian Wang, Dongmei Fu
+  
+  *ACM MM 2022* oral
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+- **Dynamic Graph Reasoning for Multi-person 3D Pose Estimation**
+  
+  **Zhongwei Qiu**, Qiansheng Yang, Jian Wang, Dongmei Fu
+  
+  *ACM MM 2022*
+  
+- **DGCN: Dynamic graph convolutional network for efficient multi-person pose estimation**
+  
+  **Zhongwei Qiu**, Kai Qiu, Jianlong Fu, Dongmei Fu
+  
+  *AAAI 2020*
+  
+- **Learning recurrent structure-guided attention network for multi-person pose estimation**
+  
+  **Zhongwei Qiu**, Kai Qiu, Jianlong Fu, Dongmei Fu
+  
+  *ICME 2019* oral
+  
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
