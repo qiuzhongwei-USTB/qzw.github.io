@@ -103,6 +103,8 @@ His research interest includes 2D/3D human pose estimation and 3D human reconstr
 - *2022.12* Excellent Graduate Student, University of Science and Technology Beijing
 - *2022.10* ECCV Student Scholarship, ECCV
 - *2022.10* ACM Multimedia 2023 Student Scholarship, ACM Multimedia
+- *2021.12* Star of Tomorrow, Microsoft Research Asia
+- *2021.02* Star of Tomorrow, Microsoft Research Asia
 - *2019.12* Silver Medal (10/1300+) in RSNA Intracranial Hemorrhage Detection, RSNA-Kaggle
 - *2018.09* The 2nd place of ChinaMM 2018 JD AI Fashion-Challenge, JD.com
 - *2018.06* Excellent Graduation Thesis, University of Science and Technology Beijing
