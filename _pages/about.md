@@ -28,6 +28,7 @@ His research interest includes 2D/3D human pose estimation and 3D human reconstr
 - *2014.09 - 2018.06*, Bachelor of Engineering in Automation, University of Science and Technology Beijing, Beijing China. 
 
 # 🔥 News
+- *2023.03*: The technology of [FTVSR](https://github.com/researchmm/FTVSR) has been shipped to [Microsoft Edge Browser](https://blogs.windows.com/msedgedev/2023/03/08/video-super-resolution-in-microsoft-edge/).
 - *2023.03*: I will serve as the reviewer of NeurIPS 2023.
 - *2023.03*: &nbsp;🎉🎉 1 paper is accepted by CVPR2023. 
 - *2023.03*: &nbsp;🎉🎉 1 paper is accepted by Pattern Recognition. 
