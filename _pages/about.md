@@ -28,6 +28,7 @@ His research interest includes 2D/3D human pose estimation and 3D human reconstr
 - *2014.09 - 2018.06*, Bachelor of Engineering in Automation, University of Science and Technology Beijing, Beijing China. 
 
 # 🔥 News
+- *2023.03*: I will serve as the reviewer of NeurIPS 2023.
 - *2023.03*: &nbsp;🎉🎉 1 paper is accepted by CVPR2023. 
 - *2023.03*: &nbsp;🎉🎉 1 paper is accepted by Pattern Recognition. 
 - *2022.12*: I will serve as the reviewer of ICML 2023.
@@ -118,7 +119,7 @@ His research interest includes 2D/3D human pose estimation and 3D human reconstr
 ## Conference Reviewer
 - **CVPR**: 2023
 - **ICML**: 2023
-- **NeurIPS**: 2022
+- **NeurIPS**: 2023,2022
 - **ACM MM**: 2022,2021
 - **AAAI**: 2023
 - **ICASSP**: 2023
