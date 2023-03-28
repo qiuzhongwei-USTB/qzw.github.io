@@ -92,7 +92,7 @@ His research interest includes 2D/3D human pose estimation and 3D human reconstr
   *ICME 2019* oral [[paper]](https://ieeexplore.ieee.org/abstract/document/8785048)
   
 # 👨‍💼 Work Experience
-- *2021 - 2023*, Research Intern, Baidu Vis, Beijing, China.
+- *2021 - 2023*, Research Intern, Baidu VIS, Beijing, China.
 - *2018.07 - 2021.02*, Research Intern, Microsoft Research Asia, Beijing, China.
 
 # 🛠 Projects
@@ -104,7 +104,7 @@ His research interest includes 2D/3D human pose estimation and 3D human reconstr
 - *2022.12* Star of Academic, University of Science and Technology Beijing
 - *2022.12* Excellent Graduate Student, University of Science and Technology Beijing
 - *2022.10* ECCV 2022 Student Scholarship, ECCV
-- *2022.10* ACM Multimedia 2023 Student Scholarship, ACM Multimedia
+- *2022.10* ACM Multimedia 2022 Student Scholarship, ACM Multimedia
 - *2021.12* Star of Tomorrow, Microsoft Research Asia
 - *2021.02* Star of Tomorrow, Microsoft Research Asia
 - *2019.12* Silver Medal (10/1300+) in RSNA Intracranial Hemorrhage Detection, RSNA-Kaggle
