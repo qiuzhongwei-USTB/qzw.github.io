@@ -121,7 +121,7 @@ His research interest includes 2D/3D human pose estimation and 3D human reconstr
 - **CVPR**: 2023
 - **ICML**: 2023
 - **NeurIPS**: 2023,2022
-- **ACM MM**: 2022,2021
+- **ACM MM**: 2023,2022,2021
 - **AAAI**: 2023
 - **ICASSP**: 2023
 - **ICME**: 2023,2022,2021,2020,2019
