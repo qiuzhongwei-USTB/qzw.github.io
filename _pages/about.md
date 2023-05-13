@@ -100,6 +100,7 @@ His research interest includes 2D/3D human pose estimation and 3D human reconstr
 - **Video Super-Resolution**, work at MSRA
 
 # 🎖 Honors and Awards
+- *2023.05* CVPR 2023 Student Scholarship, CVPR
 - *2022.12* Scholarship from Zenith Steel Group
 - *2022.12* Star of Academic, University of Science and Technology Beijing
 - *2022.12* Excellent Graduate Student, University of Science and Technology Beijing
