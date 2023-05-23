@@ -23,7 +23,7 @@ Zhongwei Qiu currently is pursuing his Ph.D. degree at University of Science and
 His research interest includes 2D/3D human pose estimation and 3D human reconstruction, video super-resolution, NeRF, and diffusion model.
 
 🔥**我在寻找计算机视觉或者多模态相关的工作机会，工作地点在北京、上海、深圳均可。如果有人推荐，欢迎Email，我将不胜感激。
-I‘m looking for a position in computer vision and multimodal-related research, base on Beijing, Shanghai, Shenzhen. I will be grateful if anyone could recommend a job. Email:18813059739@163.com.**
+I‘m looking for a position in computer vision and multimodal-related research, base on Beijing, Shanghai, Shenzhen. I will be grateful if anyone could recommend a job. Email:18813059739@163.com.** [简历/CV](https://github.com/qiuzhongwei-USTB/qiuzhongwei-USTB.github.io/blob/main/docs/resume_qiuzhongwei.pdf)
 
 # 🎓︎ Educations
 - *2022.07 - present*, Visiting Research Student, The University of Sydney, Sydney, Australia.
