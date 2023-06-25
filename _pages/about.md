@@ -40,6 +40,11 @@ I‘m looking for a position in computer vision and multimodal-related research,
 - *2022.10*: I will serve as the reviewer of CVPR 2023.
 
 # 📝 Publications 
+- **Stable Diffusion is Unstable**
+  
+  Chengbin Du, Yanxi Li, **Zhongwei Qiu**, Chang Xu.
+  
+  *arxiv* [[paper]](https://arxiv.org/abs/2306.02583)
 - **PSVT: End-to-End Multi-person 3D Pose and Shape Estimation with Progressive Video Transformers**
   
   **Zhongwei Qiu**, Yang Qiansheng, Jian Wang, Haocheng Feng, Junyu Han, Errui Ding, Chang Xu, Dongmei Fu, Jingdong Wang
