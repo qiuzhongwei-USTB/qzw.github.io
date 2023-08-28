@@ -18,26 +18,28 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # About Me
-Zhongwei Qiu currently is pursuing his Ph.D. degree at University of Science and Technology Beijing (USTB), supervised by Prof. Dongmei Fu, co-supervised by Dr. [Jianlong Fu](https://jianlong-fu.github.io/) from Microsoft Research Asia (MSRA). Before that, he received his B.S. degree in Automation from USTB in 2018. He is a visiting researcher at the University of Sydney (USYD) since July 2022, supervised by Dr. [Chang Xu](http://changxu.xyz/).
+Zhongwei Qiu is currently pursuing his Ph.D. degree at the University of Science and Technology Beijing (USTB), supervised by Prof. Dongmei Fu, co-supervised by Dr. [Jianlong Fu](https://jianlong-fu.github.io/) from Microsoft Research Asia (MSRA). Before that, he received his B.S. degree in Automation from USTB in 2018. He had been a visiting researcher at the University of Sydney (USYD) since July 2022, supervised by Dr. [Chang Xu](http://changxu.xyz/).
 
 His research interest includes 2D/3D human pose estimation and 3D human reconstruction, video super-resolution, NeRF, and diffusion model.
 
 🔥**我在寻找计算机视觉或者多模态相关的工作机会，工作地点在北京、上海、深圳均可。如果有人推荐，欢迎Email，我将不胜感激。
-I‘m looking for a position in computer vision and multimodal-related research, base on Beijing, Shanghai, Shenzhen. I will be grateful if anyone could recommend a job. Email:18813059739@163.com.** [简历/CV](https://github.com/qiuzhongwei-USTB/qiuzhongwei-USTB.github.io/blob/main/docs/resume_qiuzhongwei.pdf)
+I‘m seeking a position in computer vision and multimodal-related research based in Beijing, Shanghai, and Shenzhen. I would be grateful if anyone could recommend a job. Email:18813059739@163.com.** [简历/CV](https://github.com/qiuzhongwei-USTB/qiuzhongwei-USTB.github.io/blob/main/docs/resume_qiuzhongwei.pdf)
 
 # 🎓︎ Educations
-- *2022.07 - present*, Visiting Research Student, The University of Sydney, Sydney, Australia.
-- *2018.06 - present*, Ph.D student in Control Science and Engineering, University of Science and Technology Beijing, Beijing China. 
+- *2022.07 - 2023.08*, Visiting Research Student, The University of Sydney, Sydney, Australia.
+- *2018.06 - 2024.01*, Ph.D. student in Control Science and Engineering, University of Science and Technology Beijing, Beijing China. 
 - *2014.09 - 2018.06*, Bachelor of Engineering in Automation, University of Science and Technology Beijing, Beijing China. 
 
 # 🔥 News
+- *2023.03*: 1 paper is accepted by TPAMI.
+- *2023.08*: I will be the reviewer of AAAI 2024 and ICLR 2024.
 - *2023.03*: The technology of [FTVSR](https://github.com/researchmm/FTVSR) has been shipped to [Microsoft Edge Browser](https://blogs.windows.com/msedgedev/2023/03/08/video-super-resolution-in-microsoft-edge/).
 - *2023.03*: I will serve as the reviewer of NeurIPS 2023.
 - *2023.03*: &nbsp;🎉🎉 1 paper is accepted by CVPR2023. 
 - *2023.03*: &nbsp;🎉🎉 1 paper is accepted by Pattern Recognition. 
-- *2022.12*: I will serve as the reviewer of ICML 2023.
+- *2022.12*: I will be the reviewer of ICML 2023.
 - *2022.11*: &nbsp;🎉🎉 1 paper is accepted by AAAI2023. 
-- *2022.10*: I will serve as the reviewer of CVPR 2023.
+- *2022.10*: I will be the reviewer of CVPR 2023.
 
 # 📝 Publications 
 - **Stable Diffusion is Unstable**
@@ -57,11 +59,11 @@ I‘m looking for a position in computer vision and multimodal-related research,
   
   *Pattern Recognition* [[paper]](https://www.sciencedirect.com/science/article/pii/S0031320323001978)
   
-- **Learning Spatiotemporal Frequency-Transformer for Low-Quality Video Super-Resolution**
+- **Learning Degradation-robust Spatiotemporal Frequency-Transformer for Video Super-Resolution**
   
   **Zhongwei Qiu**, Huan Yang, Jianlong Fu, Daochang Liu, Chang Xu, Dongmei Fu
   
-  *arXiv* [[paper]](https://arxiv.org/abs/2212.14046) [[code]](https://github.com/researchmm/FTVSR)
+  *TPAMI* [[paper]](https://arxiv.org/abs/2212.14046) [[code]](https://github.com/researchmm/FTVSR)
 
 - **DMIS: Dynamic Mesh-based Importance Sampling for Training Physics-Informed Neural Networks**
   
@@ -127,13 +129,14 @@ I‘m looking for a position in computer vision and multimodal-related research,
 
 # 📖 Academic Service
 ## Conference Reviewer
+- **ICLR**: 2024
 - **CVPR**: 2023
 - **ICML**: 2023
 - **NeurIPS**: 2023,2022
 - **ACM MM**: 2023,2022,2021
-- **AAAI**: 2023
+- **AAAI**: 2024,2023
 - **ICASSP**: 2023
 - **ICME**: 2023,2022,2021,2020,2019
 
-## Joural Reviewer
+## Journal Reviewer
 - TMM, TCSVT
