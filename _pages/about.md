@@ -63,7 +63,7 @@ I‘m seeking a position in computer vision and multimodal-related research base
   
   **Zhongwei Qiu**, Huan Yang, Jianlong Fu, Daochang Liu, Chang Xu, Dongmei Fu
   
-  *TPAMI* [[paper]](https://arxiv.org/abs/2212.14046) [[code]](https://github.com/researchmm/FTVSR)
+  *TPAMI* [[paper]](https://ieeexplore.ieee.org/document/10239462) [[code]](https://github.com/researchmm/FTVSR)
 
 - **DMIS: Dynamic Mesh-based Importance Sampling for Training Physics-Informed Neural Networks**
   
