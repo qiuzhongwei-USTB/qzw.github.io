@@ -44,14 +44,16 @@ I‘m seeking a position in computer vision and multimodal-related research base
 
 # 📝 Publications 
 - **HAP: Structure-Aware Masked Image Modeling for Human-Centric Perception**
-  
- Junkun Yuan, Xinyu Zhang, Hao Zhou, Jian Wang, **Zhongwei Qiu**, Zhiyin Shao, Shaofeng Zhang, Sifan Long, Kun Kuang, Kun Yao, Junyu Han, Errui Ding, Lanfen Lin, Fei Wu, Jingdong Wang.
+
+  Junkun Yuan, Xinyu Zhang, Hao Zhou, Jian Wang, **Zhongwei Qiu**, Zhiyin Shao, Shaofeng Zhang, Sifan Long, Kun Kuang, Kun Yao, Junyu Han, Errui Ding, Lanfen Lin, Fei Wu, Jingdong Wang.
+
+  *NeurIPS 2023*
   
 - **Stable Diffusion is Unstable**
   
   Chengbin Du, Yanxi Li, **Zhongwei Qiu**, Chang Xu.
   
-  *NeurIPS* [[paper]](https://arxiv.org/abs/2306.02583)
+  *NeurIPS 2023* [[paper]](https://arxiv.org/abs/2306.02583)
 - **PSVT: End-to-End Multi-person 3D Pose and Shape Estimation with Progressive Video Transformers**
   
   **Zhongwei Qiu**, Yang Qiansheng, Jian Wang, Haocheng Feng, Junyu Han, Errui Ding, Chang Xu, Dongmei Fu, Jingdong Wang
