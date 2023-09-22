@@ -31,6 +31,7 @@ I‘m seeking a position in computer vision and multimodal-related research base
 - *2014.09 - 2018.06*, Bachelor of Engineering in Automation, University of Science and Technology Beijing, Beijing China. 
 
 # 🔥 News
+- *2023.09*: &nbsp;🎉🎉 2 papers are accepted by NeurIPS.
 - *2023.08*: &nbsp;🎉🎉 1 paper is accepted by TPAMI.
 - *2023.08*: I will be the reviewer of AAAI 2024 and ICLR 2024.
 - *2023.03*: The technology of [FTVSR](https://github.com/researchmm/FTVSR) has been shipped to [Microsoft Edge Browser](https://blogs.windows.com/msedgedev/2023/03/08/video-super-resolution-in-microsoft-edge/).
@@ -42,11 +43,15 @@ I‘m seeking a position in computer vision and multimodal-related research base
 - *2022.10*: I will be the reviewer of CVPR 2023.
 
 # 📝 Publications 
+- **HAP: Structure-Aware Masked Image Modeling for Human-Centric Perception**
+  
+ Junkun Yuan, Xinyu Zhang, Hao Zhou, Jian Wang, **Zhongwei Qiu**, Zhiyin Shao, Shaofeng Zhang, Sifan Long, Kun Kuang, Kun Yao, Junyu Han, Errui Ding, Lanfen Lin, Fei Wu, Jingdong Wang.
+  
 - **Stable Diffusion is Unstable**
   
   Chengbin Du, Yanxi Li, **Zhongwei Qiu**, Chang Xu.
   
-  *arxiv* [[paper]](https://arxiv.org/abs/2306.02583)
+  *NeurIPS* [[paper]](https://arxiv.org/abs/2306.02583)
 - **PSVT: End-to-End Multi-person 3D Pose and Shape Estimation with Progressive Video Transformers**
   
   **Zhongwei Qiu**, Yang Qiansheng, Jian Wang, Haocheng Feng, Junyu Han, Errui Ding, Chang Xu, Dongmei Fu, Jingdong Wang
