@@ -137,7 +137,7 @@ I‘m seeking a position in computer vision and multimodal-related research base
 # 📖 Academic Service
 ## Conference Reviewer
 - **ICLR**: 2024
-- **CVPR**: 2023
+- **CVPR**: 2024, 2023
 - **ICML**: 2023
 - **NeurIPS**: 2023,2022
 - **ACM MM**: 2023,2022,2021
