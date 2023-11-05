@@ -47,7 +47,7 @@ I‘m seeking a position in computer vision and multimodal-related research base
 
   Junkun Yuan, Xinyu Zhang, Hao Zhou, Jian Wang, **Zhongwei Qiu**, Zhiyin Shao, Shaofeng Zhang, Sifan Long, Kun Kuang, Kun Yao, Junyu Han, Errui Ding, Lanfen Lin, Fei Wu, Jingdong Wang.
 
-  *NeurIPS 2023*
+  *NeurIPS 2023* [[paper]](https://arxiv.org/pdf/2310.20695.pdf)
   
 - **Stable Diffusion is Unstable**
   
