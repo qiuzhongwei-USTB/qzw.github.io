@@ -114,6 +114,7 @@ His research interest includes Human-Centric Visual Perception and Generation(2D
 - **Video Super-Resolution**, work at MSRA
 
 # 🎖 Honors and Awards
+- *2023.11* Scholarship from Baosteel Education Foundation
 - *2023.05* CVPR 2023 Student Scholarship, CVPR
 - *2022.12* Scholarship from Zenith Steel Group
 - *2022.12* Star of Academic, University of Science and Technology Beijing
@@ -143,4 +144,4 @@ His research interest includes Human-Centric Visual Perception and Generation(2D
 - **ICME**: 2023,2022,2021,2020,2019
 
 ## Journal Reviewer
-- TMM, TCSVT
+- TVCG, TMM, TCSVT
