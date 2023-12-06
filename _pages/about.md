@@ -136,7 +136,7 @@ His research interest includes Human-Centric Visual Perception and Generation(2D
 ## Conference Reviewer
 - **ICLR**: 2024
 - **CVPR**: 2024, 2023
-- **ICML**: 2023
+- **ICML**: 2024，2023
 - **NeurIPS**: 2023,2022
 - **ACM MM**: 2023,2022,2021
 - **AAAI**: 2024,2023
