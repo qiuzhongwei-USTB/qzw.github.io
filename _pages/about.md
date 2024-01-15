@@ -22,6 +22,9 @@ Zhongwei Qiu is currently pursuing his Ph.D. degree at the University of Science
 
 His research interest includes Human-Centric Visual Perception and Generation(2D/3D Human Pose and Shape Estimation, Human Motion and Video Generation), Low-level Vision and Generation(Video Super-Resolution, NeRF, Diffusion Model), AI for Science, and so on.
 
+
+We have \color{red}{opening positions} for \color{red}{research interns} (undergraduate, master, Ph.D. and gap year students are all welcomed). Please drop me an e-mail (qiuzhongwei.qzw@alibaba-inc.com) if you are interested.
+
 # 🎓︎ Educations
 - *2022.07 - 2023.08*, Visiting Research Student, The University of Sydney, Sydney, Australia.
 - *2018.06 - 2024.01*, Ph.D. student in Control Science and Engineering, University of Science and Technology Beijing, Beijing China. 
