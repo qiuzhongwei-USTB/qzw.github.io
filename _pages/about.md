@@ -28,7 +28,7 @@ His research interest includes Human-Centric Visual Perception and Generation(2D
 - *2014.09 - 2018.06*, Bachelor of Engineering in Automation, University of Science and Technology Beijing, Beijing China. 
 
 # 🔥 News
-- *2023.12*: I will join Alibaba DAMO Academy as a senior algorithm engineer (算法专家) in January 2024.
+- *2024.01*: &nbsp;🎉🎉 I received my Ph.D. degree from USTB and joined Alibaba DAMO Academy as a senior algorithm engineer (算法专家).
 - *2023.09*: &nbsp;🎉🎉 2 papers are accepted by NeurIPS.
 - *2023.08*: &nbsp;🎉🎉 1 paper is accepted by TPAMI.
 - *2023.08*: I will be the reviewer of AAAI 2024 and ICLR 2024.
