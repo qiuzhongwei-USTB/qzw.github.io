@@ -144,8 +144,9 @@ We have $\color{red}{opening~positions}$ for $\color{red}{research~interns}$ (un
 - **CVPR**: 2024, 2023
 - **ICML**: 2024，2023
 - **NeurIPS**: 2023,2022
-- **ACM MM**: 2023,2022,2021
+- **ACM MM**: 2024,2023,2022,2021
 - **AAAI**: 2024,2023
+- **MICCAI**: 2024
 - **ICASSP**: 2023
 - **ICME**: 2023,2022,2021,2020,2019
 
