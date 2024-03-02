@@ -22,7 +22,7 @@ Zhongwei Qiu is currently working as an algorithm expert at Alibaba DAMO Academy
 
 He received his Ph.D. degree from the University of Science and Technology Beijing (USTB), supervised by Prof. Dongmei Fu, co-supervised by Dr. [Jianlong Fu](https://jianlong-fu.github.io/) from Microsoft Research Asia (MSRA). Before that, he received his B.S. degree in Automation from USTB in 2018. He was a visiting researcher at the University of Sydney (USYD) from July 2022 to July 2023, supervised by Dr. [Chang Xu](http://changxu.xyz/).
 
-His research interest is primarily focused on computer vision, multimodal learning, and artificial intelligence, including Human-Centric Visual Perception and Generation(2D/3D Human Pose and Shape Estimation, Human Motion and Video Generation), Low-level Vision and Generation(Video Super-Resolution, NeRF, Diffusion Model), the applications of AI for Medicine and Science, and so on.
+His research interest is primarily focused on computer vision, multimodal learning, and artificial intelligence, including Human-Centric Visual Perception and Generation(2D/3D Human Pose and Shape Estimation, Human Motion and Video Generation), Low-level Vision and Generation(Video Super-Resolution, NeRF, Diffusion Model), the applications of AI for Healthcare and Science, and so on.
 
 
 We have $\color{red}{opening~positions}$ for $\color{red}{research~interns}$ (undergraduate, master, Ph.D., and gap year students are all welcomed). Please drop me an e-mail (qiuzhongwei.qzw@alibaba-inc.com) if you are interested.
