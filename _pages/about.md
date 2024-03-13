@@ -19,6 +19,7 @@ redirect_from:
 
 # About Me
 Zhongwei Qiu is currently working as an algorithm expert at Alibaba DAMO Academy, under the leadership of Dr. [Le Lu](https://lelu007.github.io/).
+He is also a postdoctoral researcher at the College of Computer Science and Technology at Zhejiang University, collaborating with Prof. [Fei Wu](https://scholar.google.com.hk/citations?user=XJLn4MYAAAAJ&hl=zh-CN).
 
 He received his Ph.D. degree from the University of Science and Technology Beijing (USTB), supervised by Prof. Dongmei Fu, co-supervised by Dr. [Jianlong Fu](https://jianlong-fu.github.io/) from Microsoft Research Asia (MSRA). Before that, he received his B.S. degree in Automation from USTB in 2018. He was a visiting researcher at the University of Sydney (USYD) from July 2022 to July 2023, supervised by Dr. [Chang Xu](http://changxu.xyz/).
 
