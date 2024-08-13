@@ -141,12 +141,12 @@ We have $\color{red}{opening~positions}$ for $\color{red}{research~interns}$ (un
 
 # 📖 Academic Service
 ## Conference Reviewer
-- **ICLR**: 2024
+- **ICLR**: 2025, 2024
 - **CVPR**: 2024, 2023
-- **ICML**: 2024，2023
-- **NeurIPS**: 2023,2022
-- **ACM MM**: 2024,2023,2022,2021
-- **AAAI**: 2024,2023
+- **ICML**: 2024, 2023
+- **NeurIPS**: 2024, 2023, 2022
+- **ACM MM**: 2024, 2023, 2022, 2021
+- **AAAI**: 2025, 2024, 2023
 - **MICCAI**: 2024
 - **ICASSP**: 2023
 - **ICME**: 2023,2022,2021,2020,2019
