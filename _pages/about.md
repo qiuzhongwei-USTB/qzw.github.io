@@ -51,7 +51,7 @@ We have $\color{red}{opening~positions}$ for $\color{red}{research~interns}$ (un
 
   *NeurIPS 2024*
   
-  - **IHCSurv: Effective Immunohistochemistry Priors for Cancer Survival Analysis in Gigapixel Multi-stain Whole Slide Images**
+- **IHCSurv: Effective Immunohistochemistry Priors for Cancer Survival Analysis in Gigapixel Multi-stain Whole Slide Images**
 
   Yejia Zhang, Hanqing Chao, **Zhongwei Qiu**, Wenbin Liu, Yixuan Shen, Nishchal Sapkota, Pengfei Gu, Danny Z Chen, Le Lu, Ke Yan, Dakai Jin, Yun Bian, Hui Jiang
 
