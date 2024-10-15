@@ -47,7 +47,7 @@ We have $\color{red}{opening~positions}$ for $\color{red}{research~interns}$ (un
   
 - **Pedestrian-Centric 3D Pre-collision Pose and Shape Estimation from Dashcam Perspective**
 
-  MeiJun Wang, Yu Meng, **Zhongwei Qiu**, Chao Zheng, Yan Xu, Pengxiaorui, Jian Gao.
+  Meijun Wang, Yu Meng, **Zhongwei Qiu**, Chao Zheng, Yan Xu, Xiaorui Peng, Jiao Gao.
 
   *NeurIPS 2024*
   
