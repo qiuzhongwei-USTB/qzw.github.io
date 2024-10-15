@@ -51,6 +51,12 @@ We have $\color{red}{opening~positions}$ for $\color{red}{research~interns}$ (un
 
   *NeurIPS 2024*
   
+  - **IHCSurv: Effective Immunohistochemistry Priors for Cancer Survival Analysis in Gigapixel Multi-stain Whole Slide Images**
+
+  Yejia Zhang, Hanqing Chao, **Zhongwei Qiu**, Wenbin Liu, Yixuan Shen, Nishchal Sapkota, Pengfei Gu, Danny Z Chen, Le Lu, Ke Yan, Dakai Jin, Yun Bian, Hui Jiang
+
+  *MICCAI 2024* [[paper]](https://www.cs.jhu.edu/~lelu/publication/MICCAI2024-0495.pdf)
+  
 - **HAP: Structure-Aware Masked Image Modeling for Human-Centric Perception**
 
   Junkun Yuan, Xinyu Zhang, Hao Zhou, Jian Wang, **Zhongwei Qiu**, Zhiyin Shao, Shaofeng Zhang, Sifan Long, Kun Kuang, Kun Yao, Junyu Han, Errui Ding, Lanfen Lin, Fei Wu, Jingdong Wang.
