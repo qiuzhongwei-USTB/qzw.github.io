@@ -34,19 +34,23 @@ We have $\color{red}{opening~positions}$ for $\color{red}{research~interns}$ (un
 - *2014.09 - 2018.06*, Bachelor of Engineering in Automation, University of Science and Technology Beijing, Beijing China. 
 
 # 🔥 News
-- *2024.01*: &nbsp;🎉🎉 I received my Ph.D. degree from USTB and joined Alibaba DAMO Academy as an Algorithm Expert (算法专家).
-- *2023.09*: &nbsp;🎉🎉 2 papers are accepted by NeurIPS.
-- *2023.08*: &nbsp;🎉🎉 1 paper is accepted by TPAMI.
-- *2023.08*: I will be the reviewer of AAAI 2024 and ICLR 2024.
+- *2024.10*: &nbsp;🎉🎉 1 papers are accepted by TVCG.
+- *2024.09*: &nbsp;🎉🎉 1 papers are accepted by NeurIPS 2024.
 - *2023.03*: The technology of [FTVSR](https://github.com/researchmm/FTVSR) has been shipped to [Microsoft Edge Browser](https://blogs.windows.com/msedgedev/2023/03/08/video-super-resolution-in-microsoft-edge/).
-- *2023.03*: I will serve as the reviewer of NeurIPS 2023.
-- *2023.03*: &nbsp;🎉🎉 1 paper is accepted by CVPR2023. 
-- *2023.03*: &nbsp;🎉🎉 1 paper is accepted by Pattern Recognition. 
-- *2022.12*: I will be the reviewer of ICML 2023.
-- *2022.11*: &nbsp;🎉🎉 1 paper is accepted by AAAI2023. 
-- *2022.10*: I will be the reviewer of CVPR 2023.
 
 # 📝 Publications 
+- **MM-NeRF: Multimodal-Guided 3D Multi-Style Transfer of Neural Radiance Field**
+
+  Zijiang Yang, **Zhongwei Qiu**, Chang Xu, Dongmei Fu.
+
+  *TVCG* [[paper]](https://ieeexplore.ieee.org/abstract/document/10707347/)
+  
+- **Pedestrian-Centric 3D Pre-collision Pose and Shape Estimation from Dashcam Perspective**
+
+  MeiJun Wang, Yu Meng, **Zhongwei Qiu**, Chao Zheng, Yan Xu, Pengxiaorui, Jian Gao.
+
+  *NeurIPS 2024*
+  
 - **HAP: Structure-Aware Masked Image Modeling for Human-Centric Perception**
 
   Junkun Yuan, Xinyu Zhang, Hao Zhou, Jian Wang, **Zhongwei Qiu**, Zhiyin Shao, Shaofeng Zhang, Sifan Long, Kun Kuang, Kun Yao, Junyu Han, Errui Ding, Lanfen Lin, Fei Wu, Jingdong Wang.
