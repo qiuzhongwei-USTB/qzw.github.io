@@ -36,7 +36,6 @@ We have $\color{red}{opening~positions}$ for $\color{red}{research~interns}$ (un
 # 🔥 News
 - *2024.10*: &nbsp;🎉🎉 1 papers are accepted by TVCG.
 - *2024.09*: &nbsp;🎉🎉 1 papers are accepted by NeurIPS 2024.
-- *2023.03*: The technology of [FTVSR](https://github.com/researchmm/FTVSR) has been shipped to [Microsoft Edge Browser](https://blogs.windows.com/msedgedev/2023/03/08/video-super-resolution-in-microsoft-edge/).
 
 # 📝 Publications 
 - **MM-NeRF: Multimodal-Guided 3D Multi-Style Transfer of Neural Radiance Field**
@@ -127,8 +126,8 @@ We have $\color{red}{opening~positions}$ for $\color{red}{research~interns}$ (un
 - *2018.07 - 2021.02*, Research Intern, Microsoft Research Asia, Beijing, China.
 
 # 🛠 Projects
-- **AI Coach for freestyle skiing**, work with XiaoIce at MSRA
-- **Video Super-Resolution**, work at MSRA
+- **AI Coach for freestyle skiing**, work with XiaoIce at MSRA.
+- **Video Super-Resolution**, work at MSRA. The technology of [FTVSR](https://github.com/researchmm/FTVSR) has been shipped to [Microsoft Edge Browser](https://blogs.windows.com/msedgedev/2023/03/08/video-super-resolution-in-microsoft-edge/).
 
 # 🎖 Honors and Awards
 - *2023.11* Scholarship from Baosteel Education Foundation
