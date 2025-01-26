@@ -54,7 +54,7 @@ We have $\color{red}{opening~positions}$ for $\color{red}{research~interns}$ (un
 
   Meijun Wang, Yu Meng, **Zhongwei Qiu**, Chao Zheng, Yan Xu, Xiaorui Peng, Jiao Gao.
 
-  *NeurIPS 2024*
+  *NeurIPS 2024* [[paper]](https://neurips.cc/virtual/2024/poster/93814)
   
 - **IHCSurv: Effective Immunohistochemistry Priors for Cancer Survival Analysis in Gigapixel Multi-stain Whole Slide Images**
 
