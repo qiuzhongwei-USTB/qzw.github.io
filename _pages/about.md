@@ -38,6 +38,12 @@ We have $\color{red}{opening~positions}$ for $\color{red}{research~interns}$ (un
 - *2024.09*: &nbsp;🎉🎉 1 papers are accepted by NeurIPS 2024.
 
 # 📝 Publications 
+- **Gaussian-Based Swap Operator for Context-Aware Extraction of Building Boundary Vectors**
+
+  Moule Lin, Weipeng Jing, Weitao Zou, **Zhongwei Qiu**, Chao Li.
+
+  *TGRS* [[paper]](https://ieeexplore.ieee.org/document/10849775)
+  
 - **MM-NeRF: Multimodal-Guided 3D Multi-Style Transfer of Neural Radiance Field**
 
   Zijiang Yang, **Zhongwei Qiu**, Chang Xu, Dongmei Fu.
